@@ -31,7 +31,10 @@ table.programs tr {
    height: 25px;
 }
 
-
+table.programs caption {
+   caption-side:bottom;
+   text-align: center;
+}
 
 /* Table Caption Styles */
 
@@ -39,9 +42,23 @@ table.programs tr {
 
 /* Table Column Styles */
 
+.timeColumn {
+   width: 10%;
+   background-color: rgb(235, 255, 211);
+}
+
+.wEndColumns{
+   width:11%;
+   background-color: rgb(236, 231, 211)
+}
 
 
 /* Table Header Styles */
+
+table.programs thead{
+   color: white;
+   background-color:rgb(105, 177, 60);
+}
 
 
 
