@@ -24,6 +24,7 @@ table.programs{
 td, th{
    border: 1px solid gray;
    text-align: center;
+   vertical-align: top;
    padding:5px;
 }
 
@@ -64,8 +65,7 @@ thead>tr th:first-of-type {
    background-color: rgb(153, 86, 7);
 }
 
-thead>tr>th:nth-of-type(7), 
-thead>tr>th:nth-of-type(8) {
+thead>tr>th:nth-of-type(7), thead>tr>th:nth-of-type(8) {
    background-color: rgb(153, 0, 153);
 }
 
@@ -75,4 +75,3 @@ tfoot {
    color:white;
    background-color:black;
 }
-
