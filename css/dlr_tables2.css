@@ -15,6 +15,22 @@
 
 /* Table Styles */
 
+table.programs{
+   width:100%;
+   border: 15px outset rgb(151, 151, 151);
+   border-collapse: collapse;
+}
+
+td, th{
+   border: 1px solid gray;
+   text-align: center;
+   padding:5px;
+}
+
+table.programs tr {
+   height: 25px;
+}
+
 
 
 /* Table Caption Styles */

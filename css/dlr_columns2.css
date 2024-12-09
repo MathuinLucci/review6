@@ -1,5 +1,8 @@
 @charset "utf-8";
-
+ @font-face {
+   font-family: Arial, Verdana, sans-seriff;
+   src: url();
+ }
 /*
    New Perspectives on HTML and CSS
    Tutorial 6
@@ -16,5 +19,4 @@
 
 
 /* Column Styles */
-
 
