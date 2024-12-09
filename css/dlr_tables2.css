@@ -23,7 +23,6 @@ table.programs{
 
 td, th{
    border: 1px solid gray;
-   text-align: center;
    vertical-align: top;
    padding:5px;
 }
